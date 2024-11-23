@@ -2,7 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ivankqw&style=flat-square&color=blue)
 
-Machine Learning Engineer & Full Stack Developer passionate about building ML systems and data-driven applications. Currently pursuing M.S. in Computer Science at Georgia Tech and working as a Data Science Analyst at Openspace Ventures.
+I'm a Machine Learning Engineer passionate about building AI systems that make a real impact. Deeply interested in the intersection of ML Systems, Data Engineering, and Software Development. Always open to collaborating on innovative projects that push the boundaries of what's possible!
+
+- 🔭 At Openspace Ventures, I architect and deploy end-to-end AI solutions that transform investment processes and drive portfolio company growth. My work spans from building scalable microservices to leading high-impact data science initiatives - delivering measurable ROI across our portfolio companies.
+- 🎓 At Georgia Tech, I'm expanding my knowledge in Computer Science and Machine Learning, building on my Business Analytics background from NUS. My academic path combines theoretical foundations with hands-on applications, having had the privilege of receiving recognition for work in analytics and machine learning.
+- 🌱 Contributing to open-source.
 
 ## 🔥 GitHub Stats
 
