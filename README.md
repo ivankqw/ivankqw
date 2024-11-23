@@ -2,11 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ivankqw&style=flat-square&color=blue)
 
-I'm a Machine Learning Engineer focused on building transformative AI systems. My expertise spans ML Systems, Data Engineering, and Software Development, with a passion for creating solutions that drive real-world impact.
+I'm a Software Engineer focused on building transformative systems. My expertise spans ML, Data Engineering, and Software Development, with a passion for creating solutions that drive real-world impact.
 
 🔭 Currently at Openspace Ventures, architecting end-to-end AI solutions that revolutionize investment processes and accelerate portfolio company growth. Leading the development of scalable microservices and high-impact data science initiatives.
-
-🎓 Pursuing Computer Science at Georgia Tech, building on my Business Analytics foundation from NUS. Combining theoretical knowledge with practical applications in machine learning and analytics.
 
 🌱 Actively contributing to open-source and always open to collaborating on innovative projects that push technological boundaries.
 
