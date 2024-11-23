@@ -11,13 +11,13 @@ Machine Learning Engineer & Full Stack Developer passionate about building ML sy
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,r,js,typescript,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,js,typescript,pytorch)](https://skillicons.dev)
 
 ### Web Development & MLOps
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flask,express,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,docker,kubernetes)](https://skillicons.dev)
 
 ### Data & Cloud
-[![My Skills](https://skillicons.dev/icons?i=gcp,postgres,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,postgres,mongodb)](https://skillicons.dev)
 
 ## 🚀 Featured Projects
 
