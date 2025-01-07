@@ -23,39 +23,6 @@ I'm a Software Engineer focused on building transformative systems. My expertise
 ### Data & Cloud
 [![My Skills](https://skillicons.dev/icons?i=gcp,postgres,mongodb)](https://skillicons.dev)
 
-## 🚀 Featured Projects
-
-### 🖼️ [Deep Learning Image Captioning System](https://github.com/ivankqw/image-captioning-project) (WIP)
-- Implementing attention mechanisms for improved caption generation
-- Experimenting with transfer learning using pre-trained vision models
-- Conducted architecture experiments comparing different encoder-decoder setups
-- Tech: PyTorch, Transformers, ResNet, BERT
-
-### 🤖 [LLM-Powered Data Analysis Agent](https://github.com/ivankqw/sg-data-analyst)
-- Built RAG system for analyzing Singapore datasets using LangChain
-- Implemented custom function calling for data manipulation tasks
-- Created autonomous agent system for end-to-end analysis workflow
-- Leveraged vector stores for efficient context retrieval
-- Tech: LangChain, OpenAI, FAISS, Pandas
-
-### 🔍 [ML-Based Fake Twitter Account Detection](https://github.com/bandytan/Fake-Twitter-Account-Detection) | 📈 [Kickstarter Campaign Success Predictor](https://github.com/bandytan/Kickstarter-Campaign-Success-Predictor)
-- Experiments with traditional ML and neural networks
-- Tech: scikit-learn, TensorFlow, XGBoost
-
-### 🏠 [Housing Price MLOps Pipeline](https://github.com/ivankqw/housing-mlops)
-- Developed automated data pipeline using Apache Airflow
-- Implemented ML experiment tracking with MLflow
-- Created CI/CD pipeline for model deployment
-- Built monitoring system for model performance
-- Tech: Airflow, MLflow, Docker, GCP
-
-### 💰 [Personal Finance Tracking App](https://github.com/xghan99/csb-rn409)
-- Developed full-stack web application for finance management
-- Implemented CRUD operations with responsive UI
-- Built RESTful API with authentication
-- Created interactive dashboards for expense analysis
-- Tech: React
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivankqw)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ivankqw.vercel.app)
