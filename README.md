@@ -6,11 +6,7 @@ I'm a Software Engineer focused on building transformative systems. My expertise
 
 🔭 Currently at Openspace Ventures, architecting end-to-end AI solutions that revolutionize investment processes and accelerate portfolio company growth. Leading the development of scalable microservices and high-impact data science initiatives.
 
-🌱 Actively contributing to open-source and always open to collaborating on innovative projects that push technological boundaries.
-
-## 🔥 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivankqw&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+🌱 Seeking to contribute to open-source and always open to collaborating on innovative projects 
 
 ## 💻 Tech Stack
 
