@@ -4,21 +4,6 @@
 
 I'm a Software Engineer focused on building transformative systems. My expertise spans ML, Data Engineering, and Software Development, with a passion for creating solutions that drive real-world impact.
 
-🔭 Currently at Openspace Ventures, architecting end-to-end AI solutions that revolutionize investment processes and accelerate portfolio company growth. Leading the development of scalable microservices and high-impact data science initiatives.
-
-🌱 Seeking to contribute to open-source and always open to collaborating on innovative projects 
-
-## 💻 Tech Stack
-
-### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,r,js,typescript,pytorch)](https://skillicons.dev)
-
-### Web Development & MLOps
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,docker,kubernetes)](https://skillicons.dev)
-
-### Data & Cloud
-[![My Skills](https://skillicons.dev/icons?i=gcp,postgres,mongodb)](https://skillicons.dev)
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivankqw)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ivankqw.vercel.app)
