@@ -1,2 +1,2 @@
-I'm a Developer + Data Scientist focused on building and understanding the world.
+I'm a Developer + Data Scientist building and understanding the world.
 
